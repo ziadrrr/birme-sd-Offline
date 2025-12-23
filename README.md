@@ -1,3 +1,5 @@
+Fork to enable complete offline use
+
 # -> [Demo Site](https://storage.googleapis.com/birme-sd-variant/index.html?target_width=512&target_height=512) <-
 
 # Birme Variant for Stable Diffusion
